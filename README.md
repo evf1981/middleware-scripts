@@ -2,6 +2,9 @@
 
 Sonarqube installation on Centos-7
 
+Created by: Eric
+Last updated: 2/20/23
+
 What is SonarQube?
 SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality. SonarQube does static code analysis, which provides a detailed report of bugs, code smells, vulnerabilities, code duplications.
 
